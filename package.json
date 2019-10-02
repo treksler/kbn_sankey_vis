@@ -1,6 +1,6 @@
 {
   "name": "kbn_sankey_vis",
-  "version": "7.3.0",
+  "version": "7.2.0",
   "authors": [
     "Chenryn <rao.chenlin@gmail.com>",
     "Ch-bas <bassem.chagra@uniberg.com>"
@@ -20,6 +20,6 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.10.2",
     "mocha": "~5.0.4",
-    "nyc": "^13.3.0"
+    "nyc": "^14.1.1"
   }
 }
